@@ -30,7 +30,8 @@ This repository contains the code for the paper titled "Deep Learning for Sentim
 
 ```bash
 git clone https://github.com/your-username/your-repository.git
-cd your-repository ```
+cd your-repository
+```
 
 Run the desired scripts based on your experimentation needs.
 

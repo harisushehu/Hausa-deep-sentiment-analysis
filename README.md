@@ -37,8 +37,9 @@ The datasets used in this research can be accessed in the following folders:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/harisushehu/Hausa-deep-sentiment-analysis.git
+
+cd Hausa-deep-sentiment-analysis
 ```
 
 Run the desired scripts based on your experimentation needs.

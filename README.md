@@ -32,3 +32,30 @@ This repository contains the code for the paper titled "Deep Learning for Sentim
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 
+Run the desired scripts based on your experimentation needs.
+
+```bash
+python BoW.py
+python BoW_stemmed.py
+python BoW_stemmed_binary.py
+python CNN.py
+python HAN.py
+python RNN.py
+python ANOVA.py
+python plot.py
+
+Make sure to install any required dependencies in the requirements.txt
+
+## Note
+
+This code is part of an ongoing research project, and the associated paper is currently under review. Feel free to reach out for any inquiries or collaboration opportunities.
+
+Contributions to the repository are welcome, and any questions can be sent to harisushehu@ecs.vuw.ac.nz.
+
+We appreciate your interest and hope that this code proves valuable in your research endeavors.
+
+Best regards,
+The Authors
+
+
+

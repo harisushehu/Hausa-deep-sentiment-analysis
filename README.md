@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for the paper titled "Deep Learning for Sentiment Analysis in Low-Resource" authored by Harisu Abdullahi Shehu, Kaloma Usman Majikumna, Aminu Bashir Suleiman, Stephen Luka, Md. Haidar Sharif, Rabie A. Ramadan, and Huseyin Kusetogullari. As of now, the paper is under review.
+This repository contains the code for the paper "Harisu Abdullahi Shehu, Kaloma Usman Majikumna, Aminu Bashir Suleiman, Stephen Luka, Md. Haidar Sharif, Rabie A. Ramadan, and Huseyin Kusetogullari, Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts", which is currently under review.
 
 ## Description
 

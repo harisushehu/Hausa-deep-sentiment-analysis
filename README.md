@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code for the paper "Harisu Abdullahi Shehu, Kaloma Usman Majikumna, Aminu Bashir Suleiman, Stephen Luka, Md. Haidar Sharif, Rabie A. Ramadan, and Huseyin Kusetogullari, Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts", which is currently under review.
+This repository contains the code for the paper "Harisu Abdullahi Shehu, Kaloma Usman Majikumna, Aminu Bashir Suleiman, Stephen Luka, Md. Haidar Sharif, Rabie A. Ramadan, and Huseyin Kusetogullari, Unveiling Sentiments: A Deep Dive into Sentiment Analysis for Low-Resource Languages – A Case Study on Hausa Texts", which is currently under review.
 
 ## Description
 
@@ -27,7 +27,7 @@ The datasets used in this research can be accessed in the following folders:
 - **RNN.py:** Implements sentiment analysis using Recurrent Neural Networks (RNN).
 
 ### Statistical Testing
-- **ANOVA.py:** Conducts a statistical test to investigate the effectiveness of the proposed methods using Analysis of Variance (ANOVA) and Turkey's test for post hoc analysis.
+- **ANOVA.py:** Conducts a statistical test to investigate the effectiveness of the proposed methods using Analysis of Variance (ANOVA) and Tukey's test for post hoc analysis.
 
 ### Plotting
 - **plot.py:** Generates bar plots illustrating accuracy, precision, recall, and F1-scores for each of the proposed methods.
@@ -42,17 +42,10 @@ git clone https://github.com/harisushehu/Hausa-deep-sentiment-analysis.git
 cd Hausa-deep-sentiment-analysis
 ```
 
-Run the desired scripts based on your experimentation needs.
+Run the desired scripts based on your experimentation needs. For instance, run CNN.py to obtain the results of sentiment analysis using the CNN model (see below).
 
 ```bash
-python BoW.py
-python BoW_stemmed.py
-python BoW_stemmed_binary.py
 python CNN.py
-python HAN.py
-python RNN.py
-python ANOVA.py
-python plot.py
 ```
 
 Make sure to install any required dependencies in the requirements.txt
@@ -64,7 +57,7 @@ If you use this code or datasets in your research, please cite the following pap
 
 ```bash
 @article{shehu2023deep,
-  title={Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts},
+  title={Unveiling Sentiments: A Deep Dive into Sentiment Analysis for Low-Resource Languages – A Case Study on Hausa Texts},
   author={Shehu, Harisu Abdullahi and Majikumna, Kaloma Usman and Suleiman, Aminu Bashir and Luka, Stephen and Sharif, Md. Haidar and Ramadan, Rabie A. and Kusetogullari, Huseyin},
   year={2023},
   journal={(Under Review)},

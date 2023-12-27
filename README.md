@@ -66,7 +66,7 @@ If you use this code or datasets in your research, please cite the following pap
   title={Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts},
   author={Shehu, Harisu Abdullahi and Majikumna, Kaloma Usman and Suleiman, Aminu Bashir and Luka, Stephen and Sharif, Md. Haidar and Ramadan, Rabie A. and Kusetogullari, Huseyin},
   year={2023},
-  journal={Journal Name (Under Review)},
+  journal={(Under Review)},
   note={Manuscript under review.},
 }
 ```

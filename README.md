@@ -1,4 +1,4 @@
-# Deep Learning for Sentiment Analysis in Low-Resource Languages
+# Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts
 
 ## Overview
 

@@ -32,22 +32,6 @@ The datasets used in this research can be accessed in the following folders:
 ### Plotting
 - **plot.py:** Generates bar plots illustrating accuracy, precision, recall, and F1-scores for each of the proposed methods.
 
-## Citation
-
-If you use this code or datasets in your research, please cite the following paper:
-
-> Harisu Abdullahi Shehu, Kaloma Usman Majikumna, Aminu Bashir Suleiman, Stephen Luka, Md. Haidar Sharif, Rabie A. Ramadan, and Huseyin Kusetogullari, Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts.
-
-```bash
-@article{shehu2023deep,
-  title={Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts},
-  author={Shehu, Harisu Abdullahi and Majikumna, Kaloma Usman and Suleiman, Aminu Bashir and Luka, Stephen and Sharif, Md. Haidar and Ramadan, Rabie A. and Kusetogullari, Huseyin},
-  year={2023},
-  journal={Journal Name (Under Review)},
-  note={Manuscript under review.},
-}
-```
-
 ## Usage
 
 1. Clone the repository:
@@ -71,6 +55,21 @@ python plot.py
 ```
 
 Make sure to install any required dependencies in the requirements.txt
+
+
+## Citation
+
+If you use this code or datasets in your research, please cite the following paper:
+
+```bash
+@article{shehu2023deep,
+  title={Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts},
+  author={Shehu, Harisu Abdullahi and Majikumna, Kaloma Usman and Suleiman, Aminu Bashir and Luka, Stephen and Sharif, Md. Haidar and Ramadan, Rabie A. and Kusetogullari, Huseyin},
+  year={2023},
+  journal={Journal Name (Under Review)},
+  note={Manuscript under review.},
+}
+```
 
 ## Note
 

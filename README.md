@@ -24,6 +24,14 @@ This repository contains the code for the paper "Harisu Abdullahi Shehu, Kaloma 
 ### Plotting
 - **plot.py:** Generates bar plots illustrating accuracy, precision, recall, and F1-scores for each of the proposed methods.
 
+## Datasets
+
+The datasets used in this research can be accessed in the following folders:
+
+- Translated Words: 'sentence_polarity'
+- Stop Words: 'stopwords'
+- Sentences: 'opinion_lexicon'
+
 ## Usage
 
 1. Clone the repository:

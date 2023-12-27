@@ -6,6 +6,14 @@ This repository contains the code for the paper "Harisu Abdullahi Shehu, Kaloma 
 
 ## Description
 
+## Datasets
+
+The datasets used in this research can be accessed in the following folders:
+
+- Translated Words: 'sentence_polarity'
+- Stop Words: 'stopwords'
+- Sentences: 'opinion_lexicon'
+
 ### Bag-of-Words Approach
 - **BoW.py:** Investigates the sentiment of Hausa using the bag-of-words approach.
 
@@ -23,14 +31,6 @@ This repository contains the code for the paper "Harisu Abdullahi Shehu, Kaloma 
 
 ### Plotting
 - **plot.py:** Generates bar plots illustrating accuracy, precision, recall, and F1-scores for each of the proposed methods.
-
-## Datasets
-
-The datasets used in this research can be accessed in the following folders:
-
-- Translated Words: 'sentence_polarity'
-- Stop Words: 'stopwords'
-- Sentences: 'opinion_lexicon'
 
 ## Usage
 

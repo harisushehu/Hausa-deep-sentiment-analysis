@@ -1,4 +1,4 @@
-# Deep Learning for Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts
+# Sentiment Analysis in Low-Resource Languages: A Case Study on Hausa Texts
 
 ## Overview
 
@@ -31,6 +31,9 @@ The datasets used in this research can be accessed in the following folders:
 
 ### Plotting
 - **plot.py:** Generates bar plots illustrating accuracy, precision, recall, and F1-scores for each of the proposed methods.
+
+### Models
+Pre-trained models can be accessed in 'models' folder.
 
 ## Usage
 

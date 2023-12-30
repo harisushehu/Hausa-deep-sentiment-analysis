@@ -14,6 +14,9 @@ The datasets used in this research can be accessed in the following folders:
 - Stop Words: 'stopwords'
 - Sentences: 'opinion_lexicon'
 
+### Models
+Pre-trained models can be accessed in 'models' folder.
+
 ### Bag-of-Words Approach
 - **BoW.py:** Investigates the sentiment of Hausa using the bag-of-words approach.
 
@@ -31,9 +34,6 @@ The datasets used in this research can be accessed in the following folders:
 
 ### Plotting
 - **plot.py:** Generates bar plots illustrating accuracy, precision, recall, and F1-scores for each of the proposed methods.
-
-### Models
-Pre-trained models can be accessed in 'models' folder.
 
 ## Usage
 

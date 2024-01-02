@@ -34,6 +34,7 @@ Pre-trained models can be accessed in 'models' folder.
 
 ### Plotting
 - **plot.py:** Generates bar plots illustrating accuracy, precision, recall, and F1-scores for each of the proposed methods.
+- **word_cloud.py:** Generates word clouds of the positive, negative, and neutral datasets.
 
 ## Usage
 

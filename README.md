@@ -59,10 +59,10 @@ Make sure to install any required dependencies in the requirements.txt
 If you use this code or datasets in your research, please cite the following paper:
 
 ```bash
-@article{shehu2023deep,
+@article{shehu2024unveiling,
   title={Unveiling Sentiments: A Deep Dive into Sentiment Analysis for Low-Resource Languages – A Case Study on Hausa Texts},
   author={Shehu, Harisu Abdullahi and Majikumna, Kaloma Usman and Suleiman, Aminu Bashir and Luka, Stephen and Sharif, Md. Haidar and Ramadan, Rabie A. and Kusetogullari, Huseyin},
-  year={2023},
+  year={2024},
   journal={(Under Review)},
   note={Manuscript under review.},
 }

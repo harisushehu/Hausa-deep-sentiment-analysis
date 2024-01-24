@@ -29,6 +29,10 @@ Pre-trained models can be accessed in 'models' folder.
 - **HAN.py:** Implements sentiment analysis using Hierarchical Attention Network (HAN).
 - **RNN.py:** Implements sentiment analysis using Recurrent Neural Networks (RNN).
 
+- ### Comparison with Other Studies
+- **comparison_other_studies.py:** Implements various machine learning algorithms, including Random Forest, Logistic Regression, K-nearest neighbors, Support Vector Machines, and Naive Bayes. These algorithms have been proposed in other studies and are utilized in this file to compare their performance with the methods employed in the current study.
+
+
 ### Statistical Testing
 - **ANOVA.py:** Conducts a statistical test to investigate the effectiveness of the proposed methods using Analysis of Variance (ANOVA) and Tukey's test for post hoc analysis.
 

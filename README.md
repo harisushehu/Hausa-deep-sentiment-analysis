@@ -77,8 +77,6 @@ If you use this code or datasets in your research, please cite the following pap
 
 ## Note
 
-This code is part of an ongoing research project, and the associated paper is currently under review. Feel free to reach out for any inquiries or collaboration opportunities.
-
 Contributions to the repository are welcome, and any questions can be sent to harisushehu@ecs.vuw.ac.nz.
 
 We appreciate your interest and hope that this code proves valuable in your research endeavors.

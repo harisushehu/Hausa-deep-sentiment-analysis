@@ -72,7 +72,8 @@ If you use this code or datasets in your research, please cite the following pap
   pages={98900-98916},
   year={2024},
   publisher={IEEE},
-  doi={\href{https://doi.org/10.1109/ACCESS.2024.3427416}{10.1109/ACCESS.2024.3427416}}
+  doi={10.1109/ACCESS.2024.3427416},
+  url={https://ieeexplore.ieee.org/document/10596263}
 }
 ```
 

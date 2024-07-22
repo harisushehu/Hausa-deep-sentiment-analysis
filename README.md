@@ -68,8 +68,9 @@ If you use this code or datasets in your research, please cite the following pap
   title={Unveiling Sentiments: A Deep Dive into Sentiment Analysis for Low-Resource Languages – A Case Study on Hausa Texts},
   author={Shehu, Harisu Abdullahi and Majikumna, Kaloma Usman and Suleiman, Aminu Bashir and Luka, Stephen and Sharif, Md. Haidar and Ramadan, Rabie A. and Kusetogullari, Huseyin},
   journal={IEEE Access},
-  volume={},
-  pages={},
+  volume={12},
+  pages={98900-98916},
+  doi={\href{https://doi.org/10.1109/ACCESS.2024.3427416}{10.1109/ACCESS.2024.3427416}},
   year={2024},
   publisher={IEEE}
 }

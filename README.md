@@ -6,9 +6,9 @@ This repository contains the code for the paper "Harisu Abdullahi Shehu, Kaloma 
 
 ## Description
 
-## Datasets
+## Datasets (SentiHausa)
 
-The datasets used in this research can be accessed in the following folders:
+The SentiHausa datasets used in this research can be accessed in the following folders:
 
 - Translated Words: 'sentence_polarity'
 - Stop Words: 'stopwords'
